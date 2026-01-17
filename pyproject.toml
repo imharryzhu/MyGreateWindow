@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
+    "nuitka>=2.8.9",
     "pyside6>=6.10.1",
     "pyside6-fluent-widgets>=1.10.5",
 ]
