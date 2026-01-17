@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/ikun_black.svg</file>
+    <file>icons/ikun_white.svg</file>
+  </qresource>
+</RCC>
